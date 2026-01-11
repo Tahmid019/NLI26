@@ -1,0 +1,7231 @@
+{
+  "exclamations": [
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 46
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 46
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 46
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 65
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 66
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 50
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 8
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 48
+    },
+    {
+      "character": "exclamations",
+      "event": "escape",
+      "time": 48
+    }
+  ],
+  "latter": [
+    {
+      "character": "latter",
+      "event": "learn",
+      "time": 46
+    }
+  ],
+  "you": [
+    {
+      "character": "you",
+      "event": "travel",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "you",
+      "event": "read",
+      "time": 137
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "you",
+      "event": "read",
+      "time": 109
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "travel",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "travel",
+      "time": 31
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "write",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 88
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 79
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 55
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 12
+    },
+    {
+      "character": "you",
+      "event": "escape",
+      "time": 13
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 13
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "marry",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "marry",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 92
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 107
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 66
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 66
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 89
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 123
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "you",
+      "event": "write",
+      "time": 123
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "travel",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "you",
+      "event": "write",
+      "time": 128
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "you",
+      "event": "escape",
+      "time": 29
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 50
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 5
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 5
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 19
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 19
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 19
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "you",
+      "event": "write",
+      "time": 113
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "you",
+      "event": "marry",
+      "time": 139
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 71
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 17
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 17
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 10
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 10
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 10
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 122
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 122
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 122
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 73
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 25
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "you",
+      "event": "travel",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "write",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 105
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "teach",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "teach",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "marry",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 4
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 4
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 4
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "fight",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "you",
+      "event": "die",
+      "time": 96
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 54
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 8
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 14
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "you",
+      "event": "escape",
+      "time": 23
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "marry",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "kill",
+      "time": 90
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "teach",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "you",
+      "event": "know",
+      "time": 48
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 48
+    },
+    {
+      "character": "you",
+      "event": "learn",
+      "time": 48
+    }
+  ],
+  "i": [
+    {
+      "character": "i",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 46
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 137
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 109
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "fight",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 9
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 9
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 55
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 55
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 12
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 12
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 12
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "i",
+      "event": "teach",
+      "time": 13
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 102
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 107
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 66
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 89
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "marry",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 99
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 29
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 29
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 5
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "teach",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "teach",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "marry",
+      "time": 113
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 139
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 20
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 10
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 10
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 73
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 98
+    },
+    {
+      "character": "i",
+      "event": "teach",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "travel",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "marry",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 105
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 106
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 118
+    },
+    {
+      "character": "i",
+      "event": "teach",
+      "time": 126
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 4
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 4
+    },
+    {
+      "character": "i",
+      "event": "learn",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "fight",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "fight",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "fight",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "escape",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "die",
+      "time": 96
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 63
+    },
+    {
+      "character": "i",
+      "event": "write",
+      "time": 63
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "i",
+      "event": "read",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "kill",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "marry",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 90
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 130
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 48
+    },
+    {
+      "character": "i",
+      "event": "know",
+      "time": 48
+    }
+  ],
+  "man": [
+    {
+      "character": "man",
+      "event": "die",
+      "time": 46
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 46
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 137
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 12
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 11
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 50
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 20
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 20
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 20
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 62
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 62
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 36
+    },
+    {
+      "character": "man",
+      "event": "kill",
+      "time": 106
+    },
+    {
+      "character": "man",
+      "event": "learn",
+      "time": 126
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 40
+    },
+    {
+      "character": "man",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 41
+    },
+    {
+      "character": "man",
+      "event": "die",
+      "time": 23
+    },
+    {
+      "character": "man",
+      "event": "write",
+      "time": 90
+    }
+  ],
+  "god": [
+    {
+      "character": "god",
+      "event": "know",
+      "time": 46
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 79
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 79
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 73
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 57
+    },
+    {
+      "character": "god",
+      "event": "know",
+      "time": 54
+    }
+  ],
+  "sister": [
+    {
+      "character": "sister",
+      "event": "die",
+      "time": 46
+    },
+    {
+      "character": "sister",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "sister",
+      "event": "die",
+      "time": 57
+    }
+  ],
+  "villefort": [
+    {
+      "character": "villefort",
+      "event": "read",
+      "time": 137
+    },
+    {
+      "character": "villefort",
+      "event": "write",
+      "time": 137
+    },
+    {
+      "character": "villefort",
+      "event": "read",
+      "time": 88
+    },
+    {
+      "character": "villefort",
+      "event": "write",
+      "time": 88
+    },
+    {
+      "character": "villefort",
+      "event": "read",
+      "time": 102
+    },
+    {
+      "character": "villefort",
+      "event": "write",
+      "time": 102
+    },
+    {
+      "character": "villefort",
+      "event": "read",
+      "time": 89
+    },
+    {
+      "character": "villefort",
+      "event": "write",
+      "time": 89
+    },
+    {
+      "character": "villefort",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "villefort",
+      "event": "read",
+      "time": 100
+    },
+    {
+      "character": "villefort",
+      "event": "write",
+      "time": 100
+    }
+  ],
+  "father": [
+    {
+      "character": "father",
+      "event": "die",
+      "time": 137
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 104
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 99
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "father",
+      "event": "die",
+      "time": 96
+    },
+    {
+      "character": "father",
+      "event": "die",
+      "time": 90
+    },
+    {
+      "character": "father",
+      "event": "know",
+      "time": 90
+    }
+  ],
+  "men": [
+    {
+      "character": "men",
+      "event": "imprison",
+      "time": 137
+    },
+    {
+      "character": "men",
+      "event": "imprison",
+      "time": 120
+    },
+    {
+      "character": "men",
+      "event": "die",
+      "time": 125
+    }
+  ],
+  "one": [
+    {
+      "character": "one",
+      "event": "know",
+      "time": 137
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 50
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 5
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 57
+    },
+    {
+      "character": "one",
+      "event": "learn",
+      "time": 126
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "one",
+      "event": "know",
+      "time": 100
+    },
+    {
+      "character": "one",
+      "event": "learn",
+      "time": 100
+    }
+  ],
+  "comers": [
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 74
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 31
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 68
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 84
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 83
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 83
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 83
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 79
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 69
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 69
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 71
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 71
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 45
+    },
+    {
+      "character": "comers",
+      "event": "fight",
+      "time": 32
+    }
+  ],
+  "we": [
+    {
+      "character": "we",
+      "event": "know",
+      "time": 74
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 74
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 74
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 9
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 9
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 9
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 84
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 83
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 67
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 55
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 12
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 13
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 92
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 1
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 65
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 66
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "we",
+      "event": "read",
+      "time": 108
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "read",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 69
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 71
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 117
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "we",
+      "event": "travel",
+      "time": 10
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 62
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 118
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 126
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 125
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 54
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 8
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 8
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 14
+    },
+    {
+      "character": "we",
+      "event": "know",
+      "time": 63
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 138
+    },
+    {
+      "character": "we",
+      "event": "escape",
+      "time": 138
+    },
+    {
+      "character": "we",
+      "event": "die",
+      "time": 130
+    }
+  ],
+  "that": [
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 74
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 18
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 18
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 9
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 67
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 6
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 76
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 25
+    },
+    {
+      "character": "that",
+      "event": "travel",
+      "time": 54
+    }
+  ],
+  "everyone": [
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 109
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 102
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 89
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 108
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 105
+    },
+    {
+      "character": "everyone",
+      "event": "know",
+      "time": 100
+    }
+  ],
+  "nothing": [
+    {
+      "character": "nothing",
+      "event": "escape",
+      "time": 104
+    },
+    {
+      "character": "nothing",
+      "event": "escape",
+      "time": 105
+    },
+    {
+      "character": "nothing",
+      "event": "escape",
+      "time": 90
+    }
+  ],
+  "boy": [
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 104
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 92
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 65
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 107
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 99
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 99
+    },
+    {
+      "character": "boy",
+      "event": "die",
+      "time": 50
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 106
+    },
+    {
+      "character": "boy",
+      "event": "die",
+      "time": 45
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 54
+    },
+    {
+      "character": "boy",
+      "event": "die",
+      "time": 8
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 14
+    },
+    {
+      "character": "boy",
+      "event": "know",
+      "time": 23
+    },
+    {
+      "character": "boy",
+      "event": "escape",
+      "time": 100
+    }
+  ],
+  "unknown": [
+    {
+      "character": "unknown",
+      "event": "escape",
+      "time": 104
+    },
+    {
+      "character": "unknown",
+      "event": "escape",
+      "time": 105
+    }
+  ],
+  "valentine": [
+    {
+      "character": "valentine",
+      "event": "marry",
+      "time": 104
+    },
+    {
+      "character": "valentine",
+      "event": "escape",
+      "time": 104
+    },
+    {
+      "character": "valentine",
+      "event": "die",
+      "time": 104
+    },
+    {
+      "character": "valentine",
+      "event": "die",
+      "time": 104
+    },
+    {
+      "character": "valentine",
+      "event": "learn",
+      "time": 99
+    },
+    {
+      "character": "valentine",
+      "event": "learn",
+      "time": 98
+    },
+    {
+      "character": "valentine",
+      "event": "learn",
+      "time": 96
+    },
+    {
+      "character": "valentine",
+      "event": "know",
+      "time": 96
+    },
+    {
+      "character": "valentine",
+      "event": "learn",
+      "time": 96
+    },
+    {
+      "character": "valentine",
+      "event": "learn",
+      "time": 100
+    },
+    {
+      "character": "valentine",
+      "event": "escape",
+      "time": 138
+    },
+    {
+      "character": "valentine",
+      "event": "die",
+      "time": 138
+    },
+    {
+      "character": "valentine",
+      "event": "die",
+      "time": 138
+    }
+  ],
+  "woman": [
+    {
+      "character": "woman",
+      "event": "travel",
+      "time": 104
+    }
+  ],
+  "barrois": [
+    {
+      "character": "barrois",
+      "event": "die",
+      "time": 104
+    },
+    {
+      "character": "barrois",
+      "event": "die",
+      "time": 138
+    }
+  ],
+  "police": [
+    {
+      "character": "police",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 31
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 11
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 29
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 40
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "police",
+      "event": "know",
+      "time": 41
+    }
+  ],
+  "quartermaster": [
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 35
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 35
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 35
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 18
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 34
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 34
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 43
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 20
+    },
+    {
+      "character": "quartermaster",
+      "event": "learn",
+      "time": 25
+    }
+  ],
+  "whose": [
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 35
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 35
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 34
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 34
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 43
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 39
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 26
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 40
+    },
+    {
+      "character": "whose",
+      "event": "write",
+      "time": 45
+    }
+  ],
+  "glenarvan": [
+    {
+      "character": "glenarvan",
+      "event": "read",
+      "time": 35
+    },
+    {
+      "character": "glenarvan",
+      "event": "read",
+      "time": 83
+    },
+    {
+      "character": "glenarvan",
+      "event": "read",
+      "time": 34
+    },
+    {
+      "character": "glenarvan",
+      "event": "read",
+      "time": 34
+    },
+    {
+      "character": "glenarvan",
+      "event": "write",
+      "time": 39
+    },
+    {
+      "character": "glenarvan",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "glenarvan",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "glenarvan",
+      "event": "know",
+      "time": 17
+    },
+    {
+      "character": "glenarvan",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "glenarvan",
+      "event": "read",
+      "time": 54
+    },
+    {
+      "character": "glenarvan",
+      "event": "write",
+      "time": 63
+    }
+  ],
+  "mangles": [
+    {
+      "character": "mangles",
+      "event": "know",
+      "time": 35
+    },
+    {
+      "character": "mangles",
+      "event": "know",
+      "time": 65
+    },
+    {
+      "character": "mangles",
+      "event": "know",
+      "time": 4
+    },
+    {
+      "character": "mangles",
+      "event": "know",
+      "time": 63
+    }
+  ],
+  "geographer": [
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 18
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 18
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 18
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 9
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 9
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 13
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 13
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 66
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 5
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 19
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 6
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 17
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 17
+    },
+    {
+      "character": "geographer",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 4
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 14
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 23
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 23
+    },
+    {
+      "character": "geographer",
+      "event": "escape",
+      "time": 23
+    }
+  ],
+  "pleasure": [
+    {
+      "character": "pleasure",
+      "event": "travel",
+      "time": 18
+    },
+    {
+      "character": "pleasure",
+      "event": "travel",
+      "time": 9
+    },
+    {
+      "character": "pleasure",
+      "event": "travel",
+      "time": 12
+    },
+    {
+      "character": "pleasure",
+      "event": "travel",
+      "time": 19
+    },
+    {
+      "character": "pleasure",
+      "event": "travel",
+      "time": 54
+    }
+  ],
+  "patagonian": [
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 18
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 13
+    },
+    {
+      "character": "patagonian",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 50
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 19
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 62
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 57
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 54
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 23
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 23
+    },
+    {
+      "character": "patagonian",
+      "event": "teach",
+      "time": 48
+    }
+  ],
+  "me": [
+    {
+      "character": "me",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "me",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "me",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "me",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "me",
+      "event": "know",
+      "time": 25
+    },
+    {
+      "character": "me",
+      "event": "die",
+      "time": 96
+    }
+  ],
+  "crew": [
+    {
+      "character": "crew",
+      "event": "know",
+      "time": 18
+    },
+    {
+      "character": "crew",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "crew",
+      "event": "know",
+      "time": 34
+    },
+    {
+      "character": "crew",
+      "event": "know",
+      "time": 20
+    },
+    {
+      "character": "crew",
+      "event": "know",
+      "time": 25
+    }
+  ],
+  "interpretation": [
+    {
+      "character": "interpretation",
+      "event": "escape",
+      "time": 31
+    },
+    {
+      "character": "interpretation",
+      "event": "escape",
+      "time": 43
+    }
+  ],
+  "savages": [
+    {
+      "character": "savages",
+      "event": "kill",
+      "time": 31
+    },
+    {
+      "character": "savages",
+      "event": "kill",
+      "time": 13
+    },
+    {
+      "character": "savages",
+      "event": "kill",
+      "time": 29
+    },
+    {
+      "character": "savages",
+      "event": "kill",
+      "time": 32
+    },
+    {
+      "character": "savages",
+      "event": "kill",
+      "time": 23
+    }
+  ],
+  "songs": [
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "songs",
+      "event": "die",
+      "time": 54
+    }
+  ],
+  "europeans": [
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 68
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 71
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 26
+    },
+    {
+      "character": "europeans",
+      "event": "die",
+      "time": 54
+    }
+  ],
+  "tété,--\"who": [
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 68
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 79
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 79
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 76
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 62
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 36
+    },
+    {
+      "character": "tété,--\"who",
+      "event": "know",
+      "time": 73
+    }
+  ],
+  "smoke": [
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 68
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 68
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 67
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 67
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 71
+    },
+    {
+      "character": "smoke",
+      "event": "escape",
+      "time": 25
+    }
+  ],
+  "visitors": [
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 9
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 19
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 6
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 6
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 17
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 17
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 20
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 57
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 54
+    },
+    {
+      "character": "visitors",
+      "event": "learn",
+      "time": 23
+    }
+  ],
+  "wife": [
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "wife",
+      "event": "die",
+      "time": 71
+    }
+  ],
+  "maiden": [
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 84
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 83
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 67
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 79
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 69
+    },
+    {
+      "character": "maiden",
+      "event": "die",
+      "time": 71
+    }
+  ],
+  "robert": [
+    {
+      "character": "robert",
+      "event": "escape",
+      "time": 84
+    },
+    {
+      "character": "robert",
+      "event": "escape",
+      "time": 50
+    }
+  ],
+  "paganel": [
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 84
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 67
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 69
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 71
+    },
+    {
+      "character": "paganel",
+      "event": "know",
+      "time": 10
+    }
+  ],
+  "sailor": [
+    {
+      "character": "sailor",
+      "event": "escape",
+      "time": 83
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 39
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 26
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 45
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 32
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 41
+    },
+    {
+      "character": "sailor",
+      "event": "know",
+      "time": 41
+    }
+  ],
+  "ayrton": [
+    {
+      "character": "ayrton",
+      "event": "know",
+      "time": 83
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 43
+    },
+    {
+      "character": "ayrton",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "ayrton",
+      "event": "know",
+      "time": 43
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 39
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 39
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 26
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 45
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 32
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 41
+    },
+    {
+      "character": "ayrton",
+      "event": "read",
+      "time": 41
+    }
+  ],
+  "eyes": [
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 83
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 83
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 67
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 67
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 69
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 71
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 71
+    },
+    {
+      "character": "eyes",
+      "event": "read",
+      "time": 76
+    }
+  ],
+  "meaning": [
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 83
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 79
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 5
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 73
+    },
+    {
+      "character": "meaning",
+      "event": "escape",
+      "time": 45
+    }
+  ],
+  "portion": [
+    {
+      "character": "portion",
+      "event": "escape",
+      "time": 83
+    },
+    {
+      "character": "portion",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "portion",
+      "event": "escape",
+      "time": 73
+    }
+  ],
+  "excellency": [
+    {
+      "character": "excellency",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "excellency",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "excellency",
+      "event": "know",
+      "time": 107
+    },
+    {
+      "character": "excellency",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "excellency",
+      "event": "know",
+      "time": 118
+    }
+  ],
+  "_": [
+    {
+      "character": "_",
+      "event": "kill",
+      "time": 134
+    },
+    {
+      "character": "_",
+      "event": "kill",
+      "time": 134
+    },
+    {
+      "character": "_",
+      "event": "kill",
+      "time": 107
+    },
+    {
+      "character": "_",
+      "event": "kill",
+      "time": 116
+    },
+    {
+      "character": "_",
+      "event": "kill",
+      "time": 118
+    }
+  ],
+  "him": [
+    {
+      "character": "him",
+      "event": "die",
+      "time": 134
+    },
+    {
+      "character": "him",
+      "event": "die",
+      "time": 134
+    },
+    {
+      "character": "him",
+      "event": "escape",
+      "time": 88
+    },
+    {
+      "character": "him",
+      "event": "escape",
+      "time": 102
+    },
+    {
+      "character": "him",
+      "event": "die",
+      "time": 107
+    },
+    {
+      "character": "him",
+      "event": "die",
+      "time": 116
+    },
+    {
+      "character": "him",
+      "event": "read",
+      "time": 128
+    },
+    {
+      "character": "him",
+      "event": "read",
+      "time": 113
+    },
+    {
+      "character": "him",
+      "event": "die",
+      "time": 118
+    },
+    {
+      "character": "him",
+      "event": "escape",
+      "time": 90
+    }
+  ],
+  "translator": [
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 134
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 134
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 116
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 120
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 125
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 90
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 138
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 138
+    },
+    {
+      "character": "translator",
+      "event": "read",
+      "time": 138
+    }
+  ],
+  "step": [
+    {
+      "character": "step",
+      "event": "escape",
+      "time": 134
+    },
+    {
+      "character": "step",
+      "event": "escape",
+      "time": 98
+    },
+    {
+      "character": "step",
+      "event": "escape",
+      "time": 118
+    }
+  ],
+  "all": [
+    {
+      "character": "all",
+      "event": "know",
+      "time": 134
+    },
+    {
+      "character": "all",
+      "event": "know",
+      "time": 123
+    },
+    {
+      "character": "all",
+      "event": "know",
+      "time": 128
+    },
+    {
+      "character": "all",
+      "event": "know",
+      "time": 113
+    },
+    {
+      "character": "all",
+      "event": "know",
+      "time": 120
+    }
+  ],
+  "nobody": [
+    {
+      "character": "nobody",
+      "event": "know",
+      "time": 88
+    },
+    {
+      "character": "nobody",
+      "event": "know",
+      "time": 13
+    },
+    {
+      "character": "nobody",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "nobody",
+      "event": "know",
+      "time": 19
+    },
+    {
+      "character": "nobody",
+      "event": "know",
+      "time": 25
+    }
+  ],
+  "either": [
+    {
+      "character": "either",
+      "event": "know",
+      "time": 112
+    }
+  ],
+  "none": [
+    {
+      "character": "none",
+      "event": "escape",
+      "time": 112
+    }
+  ],
+  "count": [
+    {
+      "character": "count",
+      "event": "know",
+      "time": 112
+    },
+    {
+      "character": "count",
+      "event": "kill",
+      "time": 118
+    },
+    {
+      "character": "count",
+      "event": "kill",
+      "time": 96
+    }
+  ],
+  "lava": [
+    {
+      "character": "lava",
+      "event": "escape",
+      "time": 79
+    },
+    {
+      "character": "lava",
+      "event": "escape",
+      "time": 69
+    },
+    {
+      "character": "lava",
+      "event": "escape",
+      "time": 5
+    },
+    {
+      "character": "lava",
+      "event": "escape",
+      "time": 45
+    }
+  ],
+  "hearers": [
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 55
+    },
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 12
+    },
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 1
+    },
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 6
+    },
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 10
+    },
+    {
+      "character": "hearers",
+      "event": "know",
+      "time": 14
+    }
+  ],
+  "joy": [
+    {
+      "character": "joy",
+      "event": "die",
+      "time": 12
+    },
+    {
+      "character": "joy",
+      "event": "die",
+      "time": 5
+    },
+    {
+      "character": "joy",
+      "event": "kill",
+      "time": 17
+    },
+    {
+      "character": "joy",
+      "event": "kill",
+      "time": 20
+    },
+    {
+      "character": "joy",
+      "event": "die",
+      "time": 10
+    },
+    {
+      "character": "joy",
+      "event": "die",
+      "time": 36
+    },
+    {
+      "character": "joy",
+      "event": "die",
+      "time": 23
+    }
+  ],
+  "address": [
+    {
+      "character": "address",
+      "event": "write",
+      "time": 12
+    },
+    {
+      "character": "address",
+      "event": "write",
+      "time": 5
+    },
+    {
+      "character": "address",
+      "event": "write",
+      "time": 10
+    },
+    {
+      "character": "address",
+      "event": "write",
+      "time": 36
+    },
+    {
+      "character": "address",
+      "event": "write",
+      "time": 23
+    }
+  ],
+  "indians": [
+    {
+      "character": "indians",
+      "event": "know",
+      "time": 13
+    }
+  ],
+  "dantès": [
+    {
+      "character": "dantès",
+      "event": "read",
+      "time": 102
+    },
+    {
+      "character": "dantès",
+      "event": "read",
+      "time": 99
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "dantès",
+      "event": "read",
+      "time": 108
+    },
+    {
+      "character": "dantès",
+      "event": "kill",
+      "time": 128
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "dantès",
+      "event": "know",
+      "time": 138
+    }
+  ],
+  "disease": [
+    {
+      "character": "disease",
+      "event": "kill",
+      "time": 107
+    },
+    {
+      "character": "disease",
+      "event": "kill",
+      "time": 107
+    },
+    {
+      "character": "disease",
+      "event": "kill",
+      "time": 90
+    }
+  ],
+  "m.": [
+    {
+      "character": "m.",
+      "event": "die",
+      "time": 107
+    }
+  ],
+  "extremity": [
+    {
+      "character": "extremity",
+      "event": "die",
+      "time": 107
+    }
+  ],
+  "peons": [
+    {
+      "character": "peons",
+      "event": "travel",
+      "time": 66
+    }
+  ],
+  "majesty": [
+    {
+      "character": "majesty",
+      "event": "know",
+      "time": 123
+    }
+  ],
+  "king": [
+    {
+      "character": "king",
+      "event": "escape",
+      "time": 116
+    }
+  ],
+  "franz": [
+    {
+      "character": "franz",
+      "event": "know",
+      "time": 116
+    },
+    {
+      "character": "franz",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "franz",
+      "event": "read",
+      "time": 106
+    }
+  ],
+  "nobility": [
+    {
+      "character": "nobility",
+      "event": "marry",
+      "time": 108
+    }
+  ],
+  "danglars": [
+    {
+      "character": "danglars",
+      "event": "write",
+      "time": 128
+    }
+  ],
+  "fernand": [
+    {
+      "character": "fernand",
+      "event": "read",
+      "time": 128
+    }
+  ],
+  "flames": [
+    {
+      "character": "flames",
+      "event": "die",
+      "time": 69
+    }
+  ],
+  "event": [
+    {
+      "character": "event",
+      "event": "escape",
+      "time": 50
+    },
+    {
+      "character": "event",
+      "event": "escape",
+      "time": 6
+    },
+    {
+      "character": "event",
+      "event": "escape",
+      "time": 41
+    }
+  ],
+  "olbinett": [
+    {
+      "character": "olbinett",
+      "event": "escape",
+      "time": 50
+    },
+    {
+      "character": "olbinett",
+      "event": "escape",
+      "time": 57
+    },
+    {
+      "character": "olbinett",
+      "event": "escape",
+      "time": 48
+    }
+  ],
+  "convict": [
+    {
+      "character": "convict",
+      "event": "escape",
+      "time": 39
+    },
+    {
+      "character": "convict",
+      "event": "escape",
+      "time": 63
+    }
+  ],
+  "napoleon": [
+    {
+      "character": "napoleon",
+      "event": "know",
+      "time": 139
+    }
+  ],
+  "jailers": [
+    {
+      "character": "jailers",
+      "event": "know",
+      "time": 139
+    }
+  ],
+  "thousands": [
+    {
+      "character": "thousands",
+      "event": "escape",
+      "time": 139
+    }
+  ],
+  "abbé": [
+    {
+      "character": "abbé",
+      "event": "know",
+      "time": 117
+    },
+    {
+      "character": "abbé",
+      "event": "know",
+      "time": 118
+    },
+    {
+      "character": "abbé",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "abbé",
+      "event": "know",
+      "time": 138
+    },
+    {
+      "character": "abbé",
+      "event": "know",
+      "time": 138
+    }
+  ],
+  "us": [
+    {
+      "character": "us",
+      "event": "know",
+      "time": 122
+    }
+  ],
+  "sound": [
+    {
+      "character": "sound",
+      "event": "die",
+      "time": 122
+    },
+    {
+      "character": "sound",
+      "event": "die",
+      "time": 118
+    }
+  ],
+  "some": [
+    {
+      "character": "some",
+      "event": "die",
+      "time": 62
+    }
+  ],
+  "mother": [
+    {
+      "character": "mother",
+      "event": "die",
+      "time": 98
+    }
+  ],
+  "hitherto": [
+    {
+      "character": "hitherto",
+      "event": "escape",
+      "time": 98
+    }
+  ],
+  "nstantinople": [
+    {
+      "character": "nstantinople",
+      "event": "know",
+      "time": 120
+    },
+    {
+      "character": "nstantinople",
+      "event": "know",
+      "time": 126
+    },
+    {
+      "character": "nstantinople",
+      "event": "know",
+      "time": 125
+    }
+  ],
+  "girl": [
+    {
+      "character": "girl",
+      "event": "read",
+      "time": 106
+    }
+  ],
+  "son": [
+    {
+      "character": "son",
+      "event": "read",
+      "time": 106
+    }
+  ],
+  "d’épinay": [
+    {
+      "character": "d’épinay",
+      "event": "die",
+      "time": 106
+    }
+  ],
+  "word": [
+    {
+      "character": "word",
+      "event": "escape",
+      "time": 126
+    }
+  ],
+  "cries": [
+    {
+      "character": "cries",
+      "event": "die",
+      "time": 126
+    }
+  ],
+  "die!—i": [
+    {
+      "character": "die!—i",
+      "event": "die",
+      "time": 125
+    }
+  ],
+  "companion": [
+    {
+      "character": "companion",
+      "event": "die",
+      "time": 125
+    }
+  ],
+  "0125": [
+    {
+      "character": "0125",
+      "event": "know",
+      "time": 125
+    }
+  ],
+  "sigh": [
+    {
+      "character": "sigh",
+      "event": "escape",
+      "time": 96
+    }
+  ],
+  "drops": [
+    {
+      "character": "drops",
+      "event": "kill",
+      "time": 96
+    }
+  ],
+  "cristo": [
+    {
+      "character": "cristo",
+      "event": "write",
+      "time": 96
+    }
+  ],
+  "cousin": [
+    {
+      "character": "cousin",
+      "event": "die",
+      "time": 54
+    }
+  ],
+  "mercédès": [
+    {
+      "character": "mercédès",
+      "event": "read",
+      "time": 90
+    }
+  ],
+  "spaniard": [
+    {
+      "character": "spaniard",
+      "event": "fight",
+      "time": 90
+    }
+  ],
+  "julie": [
+    {
+      "character": "julie",
+      "event": "write",
+      "time": 138
+    }
+  ],
+  "sort": [
+    {
+      "character": "sort",
+      "event": "marry",
+      "time": 138
+    }
+  ],
+  "sons": [
+    {
+      "character": "sons",
+      "event": "marry",
+      "time": 138
+    }
+  ],
+  "andrea": [
+    {
+      "character": "andrea",
+      "event": "marry",
+      "time": 138
+    }
+  ],
+  "lords": [
+    {
+      "character": "lords",
+      "event": "marry",
+      "time": 138
+    }
+  ],
+  "botanists": [
+    {
+      "character": "botanists",
+      "event": "know",
+      "time": 48
+    },
+    {
+      "character": "botanists",
+      "event": "know",
+      "time": 48
+    }
+  ]
+}
