@@ -1,0 +1,60 @@
+{"row_id": 95, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 136, "prediction": "contradict", "claim_decisions": ["NEUTRAL", "CONTRADICT"]}
+{"row_id": 59, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 60, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 124, "prediction": "contradict", "claim_decisions": ["CONTRADICT"]}
+{"row_id": 111, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 135, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 27, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "CONTRADICT"]}
+{"row_id": 110, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 42, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 56, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 80, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 28, "prediction": "contradict", "claim_decisions": ["NEUTRAL", "NEUTRAL", "CONTRADICT", "CONTRADICT", "NEUTRAL"]}
+{"row_id": 101, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 91, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 24, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "CONTRADICT"]}
+{"row_id": 119, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 93, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 72, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 16, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL"]}
+{"row_id": 30, "prediction": "contradict", "claim_decisions": ["NEUTRAL", "CONTRADICT", "NEUTRAL"]}
+{"row_id": 97, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL"]}
+{"row_id": 22, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 53, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 58, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 81, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 47, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL"]}
+{"row_id": 7, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 121, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 129, "prediction": "contradict", "claim_decisions": ["CONTRADICT"]}
+{"row_id": 51, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 127, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 133, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL"]}
+{"row_id": 52, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 114, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL"]}
+{"row_id": 2, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "CONTRADICT", "NEUTRAL"]}
+{"row_id": 33, "prediction": "contradict", "claim_decisions": ["CONTRADICT"]}
+{"row_id": 15, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 82, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 37, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 3, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 103, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 94, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 85, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 21, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "CONTRADICT"]}
+{"row_id": 49, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 140, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 64, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 131, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 61, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 86, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 38, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL", "CONTRADICT", "CONTRADICT"]}
+{"row_id": 132, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 77, "prediction": "consistent", "claim_decisions": ["NEUTRAL"]}
+{"row_id": 70, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 115, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL"]}
+{"row_id": 78, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 87, "prediction": "contradict", "claim_decisions": ["NEUTRAL", "CONTRADICT", "NEUTRAL"]}
+{"row_id": 75, "prediction": "consistent", "claim_decisions": ["NEUTRAL", "NEUTRAL", "NEUTRAL"]}
+{"row_id": 44, "prediction": "contradict", "claim_decisions": ["CONTRADICT", "CONTRADICT", "CONTRADICT", "CONTRADICT"]}

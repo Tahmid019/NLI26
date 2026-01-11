@@ -1,0 +1,602 @@
+[
+  {
+    "claim_id": "95_0",
+    "row_id": 95
+  },
+  {
+    "claim_id": "136_0",
+    "row_id": 136
+  },
+  {
+    "claim_id": "136_1",
+    "row_id": 136
+  },
+  {
+    "claim_id": "59_0",
+    "row_id": 59
+  },
+  {
+    "claim_id": "59_1",
+    "row_id": 59
+  },
+  {
+    "claim_id": "59_2",
+    "row_id": 59
+  },
+  {
+    "claim_id": "60_0",
+    "row_id": 60
+  },
+  {
+    "claim_id": "60_1",
+    "row_id": 60
+  },
+  {
+    "claim_id": "124_0",
+    "row_id": 124
+  },
+  {
+    "claim_id": "111_0",
+    "row_id": 111
+  },
+  {
+    "claim_id": "135_0",
+    "row_id": 135
+  },
+  {
+    "claim_id": "135_1",
+    "row_id": 135
+  },
+  {
+    "claim_id": "135_2",
+    "row_id": 135
+  },
+  {
+    "claim_id": "27_0",
+    "row_id": 27
+  },
+  {
+    "claim_id": "27_1",
+    "row_id": 27
+  },
+  {
+    "claim_id": "110_0",
+    "row_id": 110
+  },
+  {
+    "claim_id": "110_1",
+    "row_id": 110
+  },
+  {
+    "claim_id": "110_2",
+    "row_id": 110
+  },
+  {
+    "claim_id": "42_0",
+    "row_id": 42
+  },
+  {
+    "claim_id": "42_1",
+    "row_id": 42
+  },
+  {
+    "claim_id": "56_0",
+    "row_id": 56
+  },
+  {
+    "claim_id": "56_1",
+    "row_id": 56
+  },
+  {
+    "claim_id": "80_0",
+    "row_id": 80
+  },
+  {
+    "claim_id": "80_1",
+    "row_id": 80
+  },
+  {
+    "claim_id": "80_2",
+    "row_id": 80
+  },
+  {
+    "claim_id": "80_3",
+    "row_id": 80
+  },
+  {
+    "claim_id": "80_4",
+    "row_id": 80
+  },
+  {
+    "claim_id": "28_0",
+    "row_id": 28
+  },
+  {
+    "claim_id": "28_1",
+    "row_id": 28
+  },
+  {
+    "claim_id": "28_2",
+    "row_id": 28
+  },
+  {
+    "claim_id": "28_3",
+    "row_id": 28
+  },
+  {
+    "claim_id": "28_4",
+    "row_id": 28
+  },
+  {
+    "claim_id": "101_0",
+    "row_id": 101
+  },
+  {
+    "claim_id": "101_1",
+    "row_id": 101
+  },
+  {
+    "claim_id": "91_0",
+    "row_id": 91
+  },
+  {
+    "claim_id": "91_1",
+    "row_id": 91
+  },
+  {
+    "claim_id": "91_2",
+    "row_id": 91
+  },
+  {
+    "claim_id": "24_0",
+    "row_id": 24
+  },
+  {
+    "claim_id": "24_1",
+    "row_id": 24
+  },
+  {
+    "claim_id": "119_0",
+    "row_id": 119
+  },
+  {
+    "claim_id": "119_1",
+    "row_id": 119
+  },
+  {
+    "claim_id": "93_0",
+    "row_id": 93
+  },
+  {
+    "claim_id": "72_0",
+    "row_id": 72
+  },
+  {
+    "claim_id": "72_1",
+    "row_id": 72
+  },
+  {
+    "claim_id": "16_0",
+    "row_id": 16
+  },
+  {
+    "claim_id": "16_1",
+    "row_id": 16
+  },
+  {
+    "claim_id": "30_0",
+    "row_id": 30
+  },
+  {
+    "claim_id": "30_1",
+    "row_id": 30
+  },
+  {
+    "claim_id": "30_2",
+    "row_id": 30
+  },
+  {
+    "claim_id": "97_0",
+    "row_id": 97
+  },
+  {
+    "claim_id": "97_1",
+    "row_id": 97
+  },
+  {
+    "claim_id": "22_0",
+    "row_id": 22
+  },
+  {
+    "claim_id": "22_1",
+    "row_id": 22
+  },
+  {
+    "claim_id": "22_2",
+    "row_id": 22
+  },
+  {
+    "claim_id": "53_0",
+    "row_id": 53
+  },
+  {
+    "claim_id": "53_1",
+    "row_id": 53
+  },
+  {
+    "claim_id": "53_2",
+    "row_id": 53
+  },
+  {
+    "claim_id": "58_0",
+    "row_id": 58
+  },
+  {
+    "claim_id": "58_1",
+    "row_id": 58
+  },
+  {
+    "claim_id": "58_2",
+    "row_id": 58
+  },
+  {
+    "claim_id": "81_0",
+    "row_id": 81
+  },
+  {
+    "claim_id": "81_1",
+    "row_id": 81
+  },
+  {
+    "claim_id": "81_2",
+    "row_id": 81
+  },
+  {
+    "claim_id": "81_3",
+    "row_id": 81
+  },
+  {
+    "claim_id": "81_4",
+    "row_id": 81
+  },
+  {
+    "claim_id": "47_0",
+    "row_id": 47
+  },
+  {
+    "claim_id": "47_1",
+    "row_id": 47
+  },
+  {
+    "claim_id": "7_0",
+    "row_id": 7
+  },
+  {
+    "claim_id": "7_1",
+    "row_id": 7
+  },
+  {
+    "claim_id": "7_2",
+    "row_id": 7
+  },
+  {
+    "claim_id": "121_0",
+    "row_id": 121
+  },
+  {
+    "claim_id": "121_1",
+    "row_id": 121
+  },
+  {
+    "claim_id": "129_0",
+    "row_id": 129
+  },
+  {
+    "claim_id": "51_0",
+    "row_id": 51
+  },
+  {
+    "claim_id": "51_1",
+    "row_id": 51
+  },
+  {
+    "claim_id": "51_2",
+    "row_id": 51
+  },
+  {
+    "claim_id": "127_0",
+    "row_id": 127
+  },
+  {
+    "claim_id": "133_0",
+    "row_id": 133
+  },
+  {
+    "claim_id": "133_1",
+    "row_id": 133
+  },
+  {
+    "claim_id": "52_0",
+    "row_id": 52
+  },
+  {
+    "claim_id": "52_1",
+    "row_id": 52
+  },
+  {
+    "claim_id": "114_0",
+    "row_id": 114
+  },
+  {
+    "claim_id": "114_1",
+    "row_id": 114
+  },
+  {
+    "claim_id": "2_0",
+    "row_id": 2
+  },
+  {
+    "claim_id": "2_1",
+    "row_id": 2
+  },
+  {
+    "claim_id": "2_2",
+    "row_id": 2
+  },
+  {
+    "claim_id": "33_0",
+    "row_id": 33
+  },
+  {
+    "claim_id": "15_0",
+    "row_id": 15
+  },
+  {
+    "claim_id": "82_0",
+    "row_id": 82
+  },
+  {
+    "claim_id": "82_1",
+    "row_id": 82
+  },
+  {
+    "claim_id": "82_2",
+    "row_id": 82
+  },
+  {
+    "claim_id": "37_0",
+    "row_id": 37
+  },
+  {
+    "claim_id": "37_1",
+    "row_id": 37
+  },
+  {
+    "claim_id": "37_2",
+    "row_id": 37
+  },
+  {
+    "claim_id": "37_3",
+    "row_id": 37
+  },
+  {
+    "claim_id": "37_4",
+    "row_id": 37
+  },
+  {
+    "claim_id": "37_5",
+    "row_id": 37
+  },
+  {
+    "claim_id": "3_0",
+    "row_id": 3
+  },
+  {
+    "claim_id": "3_1",
+    "row_id": 3
+  },
+  {
+    "claim_id": "103_0",
+    "row_id": 103
+  },
+  {
+    "claim_id": "103_1",
+    "row_id": 103
+  },
+  {
+    "claim_id": "94_0",
+    "row_id": 94
+  },
+  {
+    "claim_id": "94_1",
+    "row_id": 94
+  },
+  {
+    "claim_id": "85_0",
+    "row_id": 85
+  },
+  {
+    "claim_id": "85_1",
+    "row_id": 85
+  },
+  {
+    "claim_id": "21_0",
+    "row_id": 21
+  },
+  {
+    "claim_id": "21_1",
+    "row_id": 21
+  },
+  {
+    "claim_id": "49_0",
+    "row_id": 49
+  },
+  {
+    "claim_id": "49_1",
+    "row_id": 49
+  },
+  {
+    "claim_id": "140_0",
+    "row_id": 140
+  },
+  {
+    "claim_id": "140_1",
+    "row_id": 140
+  },
+  {
+    "claim_id": "64_0",
+    "row_id": 64
+  },
+  {
+    "claim_id": "64_1",
+    "row_id": 64
+  },
+  {
+    "claim_id": "64_2",
+    "row_id": 64
+  },
+  {
+    "claim_id": "131_0",
+    "row_id": 131
+  },
+  {
+    "claim_id": "131_1",
+    "row_id": 131
+  },
+  {
+    "claim_id": "61_0",
+    "row_id": 61
+  },
+  {
+    "claim_id": "61_1",
+    "row_id": 61
+  },
+  {
+    "claim_id": "86_0",
+    "row_id": 86
+  },
+  {
+    "claim_id": "86_1",
+    "row_id": 86
+  },
+  {
+    "claim_id": "86_2",
+    "row_id": 86
+  },
+  {
+    "claim_id": "38_0",
+    "row_id": 38
+  },
+  {
+    "claim_id": "38_1",
+    "row_id": 38
+  },
+  {
+    "claim_id": "38_2",
+    "row_id": 38
+  },
+  {
+    "claim_id": "38_3",
+    "row_id": 38
+  },
+  {
+    "claim_id": "132_0",
+    "row_id": 132
+  },
+  {
+    "claim_id": "132_1",
+    "row_id": 132
+  },
+  {
+    "claim_id": "132_2",
+    "row_id": 132
+  },
+  {
+    "claim_id": "77_0",
+    "row_id": 77
+  },
+  {
+    "claim_id": "70_0",
+    "row_id": 70
+  },
+  {
+    "claim_id": "70_1",
+    "row_id": 70
+  },
+  {
+    "claim_id": "70_2",
+    "row_id": 70
+  },
+  {
+    "claim_id": "70_3",
+    "row_id": 70
+  },
+  {
+    "claim_id": "115_0",
+    "row_id": 115
+  },
+  {
+    "claim_id": "115_1",
+    "row_id": 115
+  },
+  {
+    "claim_id": "78_0",
+    "row_id": 78
+  },
+  {
+    "claim_id": "78_1",
+    "row_id": 78
+  },
+  {
+    "claim_id": "78_2",
+    "row_id": 78
+  },
+  {
+    "claim_id": "78_3",
+    "row_id": 78
+  },
+  {
+    "claim_id": "78_4",
+    "row_id": 78
+  },
+  {
+    "claim_id": "87_0",
+    "row_id": 87
+  },
+  {
+    "claim_id": "87_1",
+    "row_id": 87
+  },
+  {
+    "claim_id": "87_2",
+    "row_id": 87
+  },
+  {
+    "claim_id": "75_0",
+    "row_id": 75
+  },
+  {
+    "claim_id": "75_1",
+    "row_id": 75
+  },
+  {
+    "claim_id": "75_2",
+    "row_id": 75
+  },
+  {
+    "claim_id": "44_0",
+    "row_id": 44
+  },
+  {
+    "claim_id": "44_1",
+    "row_id": 44
+  },
+  {
+    "claim_id": "44_2",
+    "row_id": 44
+  },
+  {
+    "claim_id": "44_3",
+    "row_id": 44
+  }
+]
